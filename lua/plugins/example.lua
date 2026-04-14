@@ -10,7 +10,7 @@ if true then return {} end
 -- * override the configuration of LazyVim plugins
 return {
   -- adds prime's game
-  {"ThePrimeagen/vim-be-good.nvim"},
+
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
